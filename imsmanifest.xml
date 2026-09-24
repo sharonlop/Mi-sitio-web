@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="eXe-MANIFEST-2026051317324801AXJF"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>imslrm.xml</adlcp:location>
+  </metadata>
+  <organizations default="eXe-2026051317324801AXJF">
+    <organization identifier="eXe-2026051317324801AXJF" structure="hierarchical">
+      <title>Encuadre del curso-taller</title>
+      <item identifier="ITEM-ROOT-2026051317324801AXJF" isvisible="true">
+        <title>Encuadre del curso-taller</title>
+        <item identifier="ITEM-page-mp4ooho5-4jko4i00h" identifierref="RES-page-mp4ooho5-4jko4i00h" isvisible="true">
+          <title>ADA Gènero</title>
+        </item>
+        <item identifier="ITEM-page-mp4ooho7-g5gmu7jp8" identifierref="RES-page-mp4ooho7-g5gmu7jp8" isvisible="true">
+          <title>Calendario</title>
+        </item>
+        <item identifier="ITEM-page-mp4ooho8-tt08qt6zh" identifierref="RES-page-mp4ooho8-tt08qt6zh" isvisible="true">
+          <title>1. Objetivo</title>
+        </item>
+        <item identifier="ITEM-page-mp4ooho8-ixijh1370" identifierref="RES-page-mp4ooho8-ixijh1370" isvisible="true">
+          <title>2. Temas de este curso</title>
+        </item>
+        <item identifier="ITEM-page-mp4ooho8-0uta6qmqu" identifierref="RES-page-mp4ooho8-0uta6qmqu" isvisible="true">
+          <title>3. Criterios de evaluación</title>
+        </item>
+        <item identifier="ITEM-page-mp4ooho8-1cjl1p31d" identifierref="RES-page-mp4ooho8-1cjl1p31d" isvisible="true">
+          <title>4. Bibliografía</title>
+        </item>
+        <item identifier="ITEM-page-mp4ooho8-dlqbku1ho" identifierref="RES-page-mp4ooho8-dlqbku1ho" isvisible="true">
+          <title>5. Créditos</title>
+        </item>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-page-mp4ooho5-4jko4i00h" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp4ooho7-g5gmu7jp8" type="webcontent" adlcp:scormtype="sco" href="html/calendario.html">
+      <file href="html/calendario.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp4ooho8-tt08qt6zh" type="webcontent" adlcp:scormtype="sco" href="html/1-objetivo.html">
+      <file href="html/1-objetivo.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp4ooho8-ixijh1370" type="webcontent" adlcp:scormtype="sco" href="html/2-temas-de-este-curso.html">
+      <file href="html/2-temas-de-este-curso.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp4ooho8-0uta6qmqu" type="webcontent" adlcp:scormtype="sco" href="html/3-criterios-de-evaluacion.html">
+      <file href="html/3-criterios-de-evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp4ooho8-1cjl1p31d" type="webcontent" adlcp:scormtype="sco" href="html/4-bibliografia.html">
+      <file href="html/4-bibliografia.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp4ooho8-dlqbku1ho" type="webcontent" adlcp:scormtype="sco" href="html/5-creditos.html">
+      <file href="html/5-creditos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="COMMON_FILES" type="webcontent" adlcp:scormtype="asset">
+      <file href="content.dtd"/>
+      <file href="content.xml"/>
+      <file href="content/css/base.css"/>
+      <file href="content/resources/0ecc7d6b-c18d-ecdb-7128-fa1563bb0066.png"/>
+      <file href="content/resources/3eb198e2-1c39-5d3f-ed39-af55046a0d78.png"/>
+      <file href="content/resources/Captura de pantalla 2026-09-24 a la(s) 4.33.35 p.m..png"/>
+      <file href="content/resources/Captura de pantalla 2026-09-24 a la(s) 4.40.46 p.m..png"/>
+      <file href="content/resources/Captura de pantalla 2026-09-24 a la(s) 4.44.56 p.m..png"/>
+      <file href="content/resources/DGTIC_forms_HQ.png"/>
+      <file href="content/resources/ad651fbc-3c50-3d0f-a5cd-ee3130623b90.png"/>
+      <file href="content/resources/logo_DGTIC_color(web).png"/>
+      <file href="content/resources/tabla.png"/>
+      <file href="fonts/global/nunito/Nunito-Bold.woff2"/>
+      <file href="fonts/global/nunito/Nunito-BoldItalic.woff2"/>
+      <file href="fonts/global/nunito/Nunito-Italic.woff2"/>
+      <file href="fonts/global/nunito/Nunito-Regular.woff2"/>
+      <file href="fonts/global/nunito/OFL.txt"/>
+      <file href="idevices/text/exequextsq.svg"/>
+      <file href="idevices/text/text.css"/>
+      <file href="idevices/text/text.html"/>
+      <file href="idevices/text/text.js"/>
+      <file href="imslrm.xml"/>
+      <file href="libs/SCOFunctions.js"/>
+      <file href="libs/SCORM_API_wrapper.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js"/>
+      <file href="libs/bootstrap/bootstrap.min.css"/>
+      <file href="libs/common.js"/>
+      <file href="libs/common_i18n.js"/>
+      <file href="libs/exe_export.js"/>
+      <file href="libs/favicon.ico"/>
+      <file href="libs/jquery/jquery.min.js"/>
+      <file href="libs/material-icons/icons/30fps.svg"/>
+      <file href="theme/config.xml"/>
+      <file href="theme/fonts/LICENSE.txt"/>
+      <file href="theme/fonts/open-sans-bold.woff2"/>
+      <file href="theme/fonts/open-sans.woff2"/>
+      <file href="theme/icons/LICENSE.txt"/>
+      <file href="theme/icons/activity.svg"/>
+      <file href="theme/icons/agreement.svg"/>
+      <file href="theme/icons/alert.svg"/>
+      <file href="theme/icons/arts.svg"/>
+      <file href="theme/icons/ask.svg"/>
+      <file href="theme/icons/book.svg"/>
+      <file href="theme/icons/calculate.svg"/>
+      <file href="theme/icons/case.svg"/>
+      <file href="theme/icons/chrono.svg"/>
+      <file href="theme/icons/collaborative.svg"/>
+      <file href="theme/icons/competencies.svg"/>
+      <file href="theme/icons/diary.svg"/>
+      <file href="theme/icons/diary_alt.svg"/>
+      <file href="theme/icons/discuss.svg"/>
+      <file href="theme/icons/download.svg"/>
+      <file href="theme/icons/draw.svg"/>
+      <file href="theme/icons/english.svg"/>
+      <file href="theme/icons/experiment.svg"/>
+      <file href="theme/icons/explore.svg"/>
+      <file href="theme/icons/file.svg"/>
+      <file href="theme/icons/gallery.svg"/>
+      <file href="theme/icons/geography.svg"/>
+      <file href="theme/icons/guide.svg"/>
+      <file href="theme/icons/history.svg"/>
+      <file href="theme/icons/info.svg"/>
+      <file href="theme/icons/interactive.svg"/>
+      <file href="theme/icons/letters.svg"/>
+      <file href="theme/icons/listen.svg"/>
+      <file href="theme/icons/math.svg"/>
+      <file href="theme/icons/music.svg"/>
+      <file href="theme/icons/nature.svg"/>
+      <file href="theme/icons/objectives.svg"/>
+      <file href="theme/icons/observe.svg"/>
+      <file href="theme/icons/passport.svg"/>
+      <file href="theme/icons/perform.svg"/>
+      <file href="theme/icons/piece.svg"/>
+      <file href="theme/icons/pieces.svg"/>
+      <file href="theme/icons/play.svg"/>
+      <file href="theme/icons/present.svg"/>
+      <file href="theme/icons/reflection.svg"/>
+      <file href="theme/icons/roadmap.svg"/>
+      <file href="theme/icons/share.svg"/>
+      <file href="theme/icons/sport.svg"/>
+      <file href="theme/icons/start.svg"/>
+      <file href="theme/icons/stop.svg"/>
+      <file href="theme/icons/suitcase.svg"/>
+      <file href="theme/icons/technology.svg"/>
+      <file href="theme/icons/think.svg"/>
+      <file href="theme/icons/think_alt.svg"/>
+      <file href="theme/icons/video.svg"/>
+      <file href="theme/img/arrow.svg"/>
+      <file href="theme/img/arrow_back.svg"/>
+      <file href="theme/img/arrow_down.svg"/>
+      <file href="theme/img/arrow_forward.svg"/>
+      <file href="theme/img/book.svg"/>
+      <file href="theme/img/book_color.svg"/>
+      <file href="theme/img/icons.png"/>
+      <file href="theme/img/licenses.gif"/>
+      <file href="theme/img/logo.png"/>
+      <file href="theme/img/logo_responsive.png"/>
+      <file href="theme/img/menu_closed.svg"/>
+      <file href="theme/img/menu_open.svg"/>
+      <file href="theme/img/search.svg"/>
+      <file href="theme/img/switch.svg"/>
+      <file href="theme/img/switch_white.svg"/>
+      <file href="theme/img/teacher_hat.svg"/>
+      <file href="theme/screenshot.png"/>
+      <file href="theme/style.css"/>
+      <file href="theme/style.js"/>
+    </resource>
+  </resources>
+</manifest>
